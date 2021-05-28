@@ -28,6 +28,7 @@ module.exports = ({
         ${navigation}
       </header>
       <main>
+        <h1>Day Vim</h1>
         ${content}
       </main>
     </body>
